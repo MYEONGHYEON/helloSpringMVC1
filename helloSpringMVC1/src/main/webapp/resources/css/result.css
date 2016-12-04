@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+table {
+
+	margin : 10px;
+	padding : 20px;
+	width: 600px;
+}
+
+th {
+	background-color : Yellow;
+}
+
+td {
+	text-align : center;
+}
+
+.page {
+	margin : 10px;
+}

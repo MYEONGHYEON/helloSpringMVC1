@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+table {
+	border : 1px solid black;
+	margin : 10px;
+	width : 500px;
+}
+
+.label {
+	text-align : right;
+	vertical-align : top;
+	width : 100px;
+}
+
+.page {
+	margin : 20px;
+}
+
+.error {
+	font-size : small;
+	color : red;
+	
+}
+
+.select {
+	width : 80px;	
+}
+}
